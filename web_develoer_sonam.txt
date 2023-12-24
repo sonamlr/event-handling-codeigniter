@@ -1,0 +1,90 @@
+Task 1 =>
+Run this application :
+1. import the database  and start localhost server
+2. then http://localhost/server/EventView run this path on 
+ your local browser => User Interface(Frontend)
+
+3. http://localhost/server/Event/addevent run this path for adding new event => server side(backend)
+4. i am bulding this application using, Backend Technologies => PHP,  CodeIgniter, Database=> MYSQL
+Frontend Technologies => HTML, CSS and Javascript
+5. please ensure that when you import the database so database name must be "testdb".
+
+
+
+Task 2 =>
+Q.1 Do a SWOT analysis of yourself for this role.
+Answer => 
+Strengths:
+Diverse Technical Skill Set:
+
+Proficient in Python, HTML, CSS, JavaScript, PHP, CodeIgniter, Express, Node.js, React, Git, GitHub, MySQL, and MongoDB.
+Full Stack Development Experience: 6 months of practical experience as a PHP web developer, demonstrating competence in both front-end and back-end development.
+Problem-Solving Skills: Strong analytical and problem-solving abilities, evidenced by successful development projects and troubleshooting.
+Version Control: Expertise in version control systems like Git, showcasing the ability to collaborate on projects and manage code changes effectively.
+Adaptability: Quick learner with the ability to adapt to new technologies and frameworks, ensuring a flexible and up-to-date skill set.
+Weaknesses:
+Limited Professional Experience:While having 6 months of experience is valuable, it's essential to acknowledge the relatively short professional experience compared to more seasoned developers.
+Deep Specialization:Although proficient in various technologies, there may be a need to deepen expertise in specific areas for more specialized roles.
+Opportunities:
+Continuous Learning: Opportunities to further enhance skills and learn new technologies, staying abreast of industry trends and advancements.
+Project Diversity: Explore projects that allow exposure to a wider range of technologies, expanding the depth and breadth of expertise.
+Community Engagement:Engage with the developer community on platforms like GitHub, contributing to open-source projects, and building a professional network.
+Threats:
+
+Rapid Technological Changes:
+The fast-paced nature of the tech industry may pose challenges in keeping up with the latest technologies and frameworks.
+Competition:
+The competitive nature of the job market requires a continuous effort to stand out, especially considering the abundance of developers with varying skill levels.
+Strategies for Success:
+Professional Development:
+Continuously invest in professional development, attending workshops, online courses, and industry events to stay current with emerging technologies.
+Project Portfolio:
+Develop a diverse and impressive project portfolio showcasing a range of skills and practical applications.
+Networking:
+Build a strong professional network by engaging with the developer community, attending meetups, and participating in forums and discussions.
+Specialization:
+Consider specializing in a particular area of interest or in-demand technology to stand out and deepen expertise.
+
+
+Q.2 Mention what tools and languages you know and don’t know.
+Answer => Languages:
+
+Python
+HTML
+CSS
+JavaScript
+PHP
+SQL (MySQL)
+NoSQL (MongoDB)
+
+Frameworks and Libraries:
+CodeIgniter (PHP framework)
+Express.js (Node.js framework)
+React.js (JavaScript library)
+
+Version Control:
+Git
+GitHub
+
+Databases:
+MySQL
+MongoDB
+
+Other:
+6 months of experience as a PHP web developer
+
+Tools and Platforms:
+Node.js (runtime for executing JavaScript on the server side)
+React (JavaScript library for building user interfaces)
+Git (version control system)
+GitHub (web-based platform for version control and collaboration)
+CodeIgniter (PHP framework for building web applications)
+Express.js (Node.js framework for building web applications)
+MySQL (relational database management system)
+MongoDB (NoSQL database)
+
+Unknown (Not mentioned):
+Specific details about your JavaScript expertise (e.g., ES6, async/await, etc.)
+Additional details about your experience with PHP (other than CodeIgniter)
+Knowledge of any front-end or back-end testing frameworks
+Familiarity with any additional tools or platforms not mentioned

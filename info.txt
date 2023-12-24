@@ -1,0 +1,9 @@
+Run this application :
+1. import the database  and start localhost server
+2. then http://localhost/server/EventView run this path on 
+ your local browser => User Interface(Frontend)
+
+3. http://localhost/server/Event/addevent run this path for adding new event => server side(backend)
+4. i am bulding this application using, Backend Technologies => PHP,  CodeIgniter, Database=> MYSQL
+Frontend Technologies => HTML, CSS and Javascript
+5. please ensure that when you import the database so database name must be "testdb".
